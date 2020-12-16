@@ -1,0 +1,29 @@
+{
+    "dummyDocument": false,
+    "extraMetadata": {
+    },
+    "fileType": "notebook",
+    "fontName": "",
+    "lastOpenedPage": 1,
+    "legacyEpub": false,
+    "lineHeight": -1,
+    "margins": 100,
+    "orientation": "portrait",
+    "pageCount": 2,
+    "pages": [
+        "12e4d5dd-8d83-4747-bb08-65ace7158b63",
+        "ede3fd8b-e9e4-4283-b70e-e60a38fc5d27"
+    ],
+    "textScale": 1,
+    "transform": {
+        "m11": 1,
+        "m12": 0,
+        "m13": 0,
+        "m21": 0,
+        "m22": 1,
+        "m23": 0,
+        "m31": 0,
+        "m32": 0,
+        "m33": 1
+    }
+}
